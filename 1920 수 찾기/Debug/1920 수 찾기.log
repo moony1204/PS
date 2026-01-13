@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\dongj\ps\1920 수 찾기\main.cpp(58): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\stdio.h(248): note: 'freopen' 선언을 참조하십시오.
+  1920 수 찾기.vcxproj -> C:\Users\dongj\PS\1920 수 찾기\Debug\1920 수 찾기.exe
