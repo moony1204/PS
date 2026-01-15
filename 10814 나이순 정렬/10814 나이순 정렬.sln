@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.36324.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10814 나이순 정렬", "10814 나이순 정렬.vcxproj", "{63654388-7BDF-4125-A0FC-6C67EA0C6441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63654388-7BDF-4125-A0FC-6C67EA0C6441}.Debug|x64.ActiveCfg = Debug|x64
+		{63654388-7BDF-4125-A0FC-6C67EA0C6441}.Debug|x64.Build.0 = Debug|x64
+		{63654388-7BDF-4125-A0FC-6C67EA0C6441}.Debug|x86.ActiveCfg = Debug|Win32
+		{63654388-7BDF-4125-A0FC-6C67EA0C6441}.Debug|x86.Build.0 = Debug|Win32
+		{63654388-7BDF-4125-A0FC-6C67EA0C6441}.Release|x64.ActiveCfg = Release|x64
+		{63654388-7BDF-4125-A0FC-6C67EA0C6441}.Release|x64.Build.0 = Release|x64
+		{63654388-7BDF-4125-A0FC-6C67EA0C6441}.Release|x86.ActiveCfg = Release|Win32
+		{63654388-7BDF-4125-A0FC-6C67EA0C6441}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBA794A9-CCD5-496B-A7B4-BD05B2D33641}
+	EndGlobalSection
+EndGlobal
