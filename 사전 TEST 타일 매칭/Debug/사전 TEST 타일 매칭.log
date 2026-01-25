@@ -1,0 +1,4 @@
+﻿  solution.cpp
+c:\users\dongj\ps\사전 test 타일 매칭\solution.cpp(158): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dongj\ps\사전 test 타일 매칭\solution.cpp(270): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  사전 TEST 타일 매칭.vcxproj -> C:\Users\dongj\PS\Debug\사전 TEST 타일 매칭.exe
