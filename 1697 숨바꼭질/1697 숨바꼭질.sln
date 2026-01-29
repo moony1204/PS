@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.36324.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1697 숨바꼭질", "1697 숨바꼭질.vcxproj", "{F2C0A108-D820-4BA8-903B-BABD55037DB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2C0A108-D820-4BA8-903B-BABD55037DB5}.Debug|x64.ActiveCfg = Debug|x64
+		{F2C0A108-D820-4BA8-903B-BABD55037DB5}.Debug|x64.Build.0 = Debug|x64
+		{F2C0A108-D820-4BA8-903B-BABD55037DB5}.Debug|x86.ActiveCfg = Debug|Win32
+		{F2C0A108-D820-4BA8-903B-BABD55037DB5}.Debug|x86.Build.0 = Debug|Win32
+		{F2C0A108-D820-4BA8-903B-BABD55037DB5}.Release|x64.ActiveCfg = Release|x64
+		{F2C0A108-D820-4BA8-903B-BABD55037DB5}.Release|x64.Build.0 = Release|x64
+		{F2C0A108-D820-4BA8-903B-BABD55037DB5}.Release|x86.ActiveCfg = Release|Win32
+		{F2C0A108-D820-4BA8-903B-BABD55037DB5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25BE8A27-4EF7-4999-8D3F-E39BD4BCE194}
+	EndGlobalSection
+EndGlobal
