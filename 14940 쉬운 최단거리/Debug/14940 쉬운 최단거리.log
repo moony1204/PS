@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\dongj\ps\14940 쉬운 최단거리\main.cpp(91): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\stdio.h(248): note: 'freopen' 선언을 참조하십시오.
+  14940 쉬운 최단거리.vcxproj -> C:\Users\dongj\PS\14940 쉬운 최단거리\Debug\14940 쉬운 최단거리.exe
