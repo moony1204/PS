@@ -1,0 +1,4 @@
+﻿  solution.cpp
+c:\users\dongj\ps\no. 2 [pro] 메모장 프로그램\solution.cpp(72): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dongj\ps\no. 2 [pro] 메모장 프로그램\solution.cpp(79): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  No. 2 [Pro] 메모장 프로그램.vcxproj -> C:\Users\dongj\PS\No. 2 [Pro] 메모장 프로그램\Debug\No. 2 [Pro] 메모장 프로그램.exe
